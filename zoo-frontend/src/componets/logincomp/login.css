@@ -1,0 +1,62 @@
+.title{
+    font-size:x-large;
+    font-weight:bold;
+    padding: 20px;
+    /* background-color: antiquewhite; */
+}
+.flexwording{
+    font-size: 60px;
+}
+
+.titleimg{
+    height: 20px;
+}
+
+
+.green{
+    color: green;
+    font-weight: bold;
+}
+.inputs{
+   border :none;
+   border-bottom: 1px solid;
+   height: 40px;
+
+}
+
+
+
+.loginform{
+    /* border: 2px solid;
+    border-radius: 20px; */
+}
+
+.sb-btn{
+    margin: 10px 0px;
+}
+
+::placeholder:hover{
+    position: relative;
+    bottom: 40px;
+    right:20px;
+  }
+
+/* dashboard */
+
+.row{
+    margin: 0;
+    padding: 0;
+}
+
+.card2{
+    height: 200px;
+    background-color: aqua;
+    margin: 20px;
+}
+
+.dashboard{
+    height: 30vw;
+    margin-top: 10px ;
+    background-color: beige;
+}
+
